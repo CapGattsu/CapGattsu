@@ -1,6 +1,7 @@
 # 💫 About Me:
-A tech-savvy and creative mind, passionate about Computer Science, always eager to explore new technologies and innovative solutions. A dedicated tabletop RPG enthusiast, they enjoy crafting immersive stories and strategic gameplay. Beyond the digital world, they are also a fan of American football, appreciating the sport’s intensity and tactics. With a love for PC gaming, they dive into rich virtual worlds, whether through competitive play or deep, story-driven adventures.
+A tech-savvy and creative mind, passionate about Computer Science, always eager to explore new technologies and innovative solutions. A dedicated tabletop RPG enthusiast, they enjoy crafting immersive stories and strategic gameplay. Beyond the digital world, they are also a fan of American football, appreciating the sport’s intensity and tactics. With a love for PC gaming, they dive into rich virtual worlds, whether through competitive play or deep, story-driven adventures.<br><br>
 
+![berserk GIF (1)](https://github.com/user-attachments/assets/371ac5b2-5702-4a98-b310-7e5eec0fd269)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joovictorscarmato) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/capgattsu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-scarmato-ba7059191) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/capgatts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joovictorscarmato26@gmail.com) 
@@ -32,3 +33,8 @@ A tech-savvy and creative mind, passionate about Computer Science, always eager 
 </picture>
 
 ###
+
+# 🎵 Spotify:
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12174214820&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
