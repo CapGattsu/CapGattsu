@@ -1,5 +1,5 @@
 # 💫 About Me:
-A tech-savvy and creative mind, passionate about Computer Science, always eager to explore new technologies and innovative solutions. A dedicated RPG enthusiast, that enjoy crafting immersive stories and strategic gameplay. With a love for PC/Console gaming, that dive me into rich virtual worlds, whether through competitive play or deep, story-driven adventures. Beyond the digital world, I'm also a fan of American football and Formula 1, appreciating the sport’s intensity and tactics.<br><br>
+A tech-savvy and creative mind, passionate about Computer Science, always eager to explore new technologies and innovative solutions. A dedicated RPG enthusiast, that enjoy crafting immersive stories and strategic gameplay. With a love for PC/Console gaming, that dive me into rich virtual worlds, whether through competitive play or deep, story-driven adventures. Beyond the digital world, I'm also a fan of American football (Brady >>>>>> Mahomes) and Formula 1 (Hamilton is the best), appreciating the sport’s intensity and tactics.<br><br>
 
 ![berserk GIF (1)](https://github.com/user-attachments/assets/371ac5b2-5702-4a98-b310-7e5eec0fd269)
 
